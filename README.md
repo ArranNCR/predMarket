@@ -9,7 +9,7 @@ Despite much scientific evidence, a large fraction of the American public doubts
 This repository contains all the code and data for this simulation model.
 
 If you use these scripts, cite this paper:
-
+hhhhhhhh
 Nay, John J., Van der Linden, Martin, Gilligan, Jonathan. (2016) "Betting and Belief: Prediction Markets and Attribution of Climate Change." eprint arXiv:1603.08961
 
 The paper can be downloaded here: <http://arxiv.org/abs/1603.08961> and the ODD specification for the agent-based prediction-market model can be found here: <https://github.com/JohnNay/predMarket/blob/master/odd.pdf>
